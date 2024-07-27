@@ -1,5 +1,5 @@
 # Application converts integers to Roman numerals and Roman numerals to integers
-[![NPM](https://github.com/poc1212/app_converts_intergers_roman_numerals/tree/master/LICENSE)
+[![NPM]}(https://github.com/poc1212/app_converts_intergers_roman_numerals/tree/master/LICENSE)
 
 # About the project
 
