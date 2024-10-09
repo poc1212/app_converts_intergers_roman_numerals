@@ -25,6 +25,3 @@ https://app-numeros-inteiros-romanos.netlify.app/
 
 # Author
 Patrick Corrêa
-
-# Linkedin
-https://www.linkedin.com/in/patrick-poc
